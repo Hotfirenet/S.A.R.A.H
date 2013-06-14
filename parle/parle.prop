@@ -1,0 +1,8 @@
+{
+  "modules": { 
+    "parle": {
+      "description": "Petit plugin qui permet de faire parler SARAH depuis une simple requete http",
+      "version": "1.0"
+    }
+  }
+}
